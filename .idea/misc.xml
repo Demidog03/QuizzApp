@@ -7,9 +7,10 @@
         <entry key="..\:/Users/Acer/AndroidStudioProjects/QuizzApp/app/src/main/res/drawable/default_option_border_bg.xml" value="0.133" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/QuizzApp/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.1" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/QuizzApp/app/src/main/res/drawable/wrong_option_border_bg.xml" value="0.1" />
-        <entry key="..\:/Users/Acer/AndroidStudioProjects/QuizzApp/app/src/main/res/layout/activity_main.xml" value="0.20408163265306123" />
-        <entry key="..\:/Users/Acer/AndroidStudioProjects/QuizzApp/app/src/main/res/layout/activity_quiz_questions.xml" value="0.2086956590966153" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/QuizzApp/app/src/main/res/layout/activity_main.xml" value="0.10852174273023996" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/QuizzApp/app/src/main/res/layout/activity_quiz_questions.xml" value="0.2754782700075322" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/QuizzApp/app/src/main/res/layout/activity_result.xml" value="0.18365218000502148" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/QuizzApp/app/src/main/res/layout/fragment_new.xml" value="0.12239583333333333" />
       </map>
     </option>
   </component>
